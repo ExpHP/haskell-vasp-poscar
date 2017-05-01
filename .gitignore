@@ -1,0 +1,10 @@
+data
+deps
+*.o
+*.hi
+.#*
+*.prof
+.shake
+.stack-work
+.*.swp
+
